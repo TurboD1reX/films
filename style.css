@@ -1,0 +1,65 @@
+*{
+    font-family: "Girassol", serif;
+}
+a{
+    text-decoration: none;
+    font-size:larger;
+    font-weight: bolder;
+
+}
+.title-container{
+font-size:60px;
+text-align: center;
+margin:50px auto;
+font-weight: 900;
+}
+
+.card{
+margin: 20px auto !important;
+height:fit-content;
+text-align: center !important;
+}
+.card > img{
+height:450px;
+}
+.title-card{
+font-size:25px;
+font-weight: 900;
+
+}
+.number-part{
+    color:#dc3545;
+    font-size:19px;
+    text-decoration: underline;
+}
+.date{
+font-size:smaller;
+}
+
+
+
+
+
+
+
+.py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.my-4 {
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+.align-items-center {
+    align-items: center !important;
+}
+.justify-content-between {
+    justify-content: space-between !important;
+}
+.flex-wrap {
+    flex-wrap: wrap !important;
+}
+.border-top {
+    border-top: 1px solid #dee2e6 !important;
+}
